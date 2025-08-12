@@ -1,0 +1,201 @@
+Test_Case_ID,Functionality,Story_Type,Core_Function,Affects_Workflow,Has_Workaround,Impact_Level,Severity_Score,Tester_Name,Time_Taken_Minutes,Priority_Label
+TC001,Login,React Story,No,No,Yes,None,2,Charlie,22,No Issues
+TC002,Payment Gateway,AEM Story,Yes,No,Yes,Low,2,Alice,30,P3
+TC003,Search,React Story,Yes,Yes,Yes,None,0,Charlie,19,No Issues
+TC004,Checkout,React Story,No,Yes,Yes,None,5,Charlie,22,No Issues
+TC005,Profile Management,React Story,Yes,No,Yes,None,0,Alice,28,No Issues
+TC006,Login,AEM Story,Yes,No,No,Low,1,Alice,22,P3
+TC007,Checkout,UI Enhancement,No,No,Yes,None,4,Alice,12,No Issues
+TC008,Checkout,AEM Story,Yes,No,Yes,None,4,Charlie,26,No Issues
+TC009,Checkout,Database Update,Yes,Yes,Yes,None,0,Alice,17,No Issues
+TC010,Profile Management,UI Enhancement,No,No,Yes,None,3,Bob,21,No Issues
+TC011,Login,AEM Story,Yes,No,No,None,5,Charlie,34,No Issues
+TC012,Profile Management,API Gateway Changes,No,Yes,Yes,None,3,Bob,34,No Issues
+TC013,Search,AEM Story,Yes,Yes,Yes,None,4,Bob,38,No Issues
+TC014,Login,React Story,No,No,Yes,Low,3,Bob,40,No Issues
+TC015,Login,API Gateway Changes,No,No,Yes,None,3,Bob,22,No Issues
+TC016,Checkout,API Gateway Changes,Yes,No,No,None,5,Alice,19,No Issues
+TC017,Profile Management,UI Enhancement,Yes,Yes,Yes,None,4,Alice,28,No Issues
+TC018,Profile Management,React Story,No,Yes,No,None,1,Charlie,21,No Issues
+TC019,Payment Gateway,UI Enhancement,Yes,No,No,Medium,6,Bob,32,P3
+TC020,Checkout,AEM Story,No,Yes,Yes,None,2,Charlie,29,No Issues
+TC021,Login,React Story,No,No,Yes,High,2,Charlie,34,No Issues
+TC022,Search,API Gateway Changes,Yes,Yes,Yes,None,2,Alice,28,No Issues
+TC023,Search,React Story,Yes,No,No,None,5,Bob,32,No Issues
+TC024,Payment Gateway,Database Update,Yes,No,Yes,Low,4,Charlie,46,P3
+TC025,Payment Gateway,AEM Story,Yes,No,Yes,None,3,Bob,19,No Issues
+TC026,Payment Gateway,AEM Story,No,Yes,Yes,None,0,Charlie,29,No Issues
+TC027,Payment Gateway,React Story,No,No,No,None,1,Charlie,21,No Issues
+TC028,Search,UI Enhancement,No,No,Yes,Low,3,Charlie,38,No Issues
+TC029,Search,AEM Story,No,Yes,Yes,Medium,6,Bob,42,P2
+TC030,Profile Management,API Gateway Changes,Yes,No,Yes,Medium,6,Charlie,38,P3
+TC031,Checkout,AEM Story,No,Yes,Yes,Medium,6,Charlie,27,P2
+TC032,Payment Gateway,React Story,Yes,Yes,Yes,Low,0,Alice,31,P3
+TC033,Login,API Gateway Changes,No,Yes,Yes,Low,4,Bob,29,P3
+TC034,Payment Gateway,React Story,No,No,Yes,None,1,Alice,16,No Issues
+TC035,Checkout,API Gateway Changes,No,No,No,Low,3,Alice,39,No Issues
+TC036,Profile Management,Database Update,No,No,Yes,Low,0,Charlie,29,No Issues
+TC037,Profile Management,AEM Story,No,No,No,None,3,Bob,24,No Issues
+TC038,Search,AEM Story,No,No,Yes,None,2,Charlie,33,No Issues
+TC039,Checkout,UI Enhancement,Yes,No,No,Low,1,Bob,26,P3
+TC040,Checkout,Database Update,No,No,Yes,None,3,Charlie,30,No Issues
+TC041,Profile Management,API Gateway Changes,No,No,Yes,None,4,Alice,30,No Issues
+TC042,Search,UI Enhancement,No,No,Yes,None,4,Bob,36,No Issues
+TC043,Login,React Story,No,No,No,None,1,Alice,22,No Issues
+TC044,Search,AEM Story,No,Yes,Yes,None,4,Charlie,8,No Issues
+TC045,Profile Management,UI Enhancement,Yes,Yes,No,None,3,Alice,14,No Issues
+TC046,Profile Management,Database Update,No,Yes,Yes,None,3,Charlie,18,No Issues
+TC047,Profile Management,UI Enhancement,No,No,Yes,High,1,Bob,36,No Issues
+TC048,Checkout,React Story,No,No,Yes,None,4,Charlie,33,No Issues
+TC049,Login,UI Enhancement,No,Yes,Yes,None,6,Bob,29,No Issues
+TC050,Payment Gateway,React Story,No,No,No,Low,7,Bob,35,No Issues
+TC051,Profile Management,AEM Story,No,Yes,Yes,Low,3,Bob,32,P3
+TC052,Login,API Gateway Changes,No,Yes,Yes,None,2,Charlie,12,No Issues
+TC053,Search,UI Enhancement,No,No,Yes,None,5,Alice,10,No Issues
+TC054,Payment Gateway,UI Enhancement,No,No,Yes,None,3,Charlie,18,No Issues
+TC055,Search,AEM Story,Yes,No,No,None,6,Bob,12,No Issues
+TC056,Search,UI Enhancement,No,No,No,None,3,Charlie,18,No Issues
+TC057,Login,UI Enhancement,Yes,No,No,None,1,Bob,33,No Issues
+TC058,Profile Management,React Story,Yes,No,Yes,Medium,7,Alice,41,P3
+TC059,Payment Gateway,API Gateway Changes,Yes,Yes,No,Low,2,Alice,26,P3
+TC060,Login,AEM Story,No,No,Yes,Medium,5,Charlie,45,No Issues
+TC061,Login,React Story,No,No,Yes,Medium,8,Charlie,35,No Issues
+TC062,Profile Management,React Story,Yes,No,Yes,None,3,Charlie,23,No Issues
+TC063,Search,AEM Story,No,No,Yes,None,0,Charlie,12,No Issues
+TC064,Profile Management,UI Enhancement,No,No,No,Low,2,Alice,16,No Issues
+TC065,Payment Gateway,UI Enhancement,Yes,No,Yes,Medium,4,Charlie,31,P3
+TC066,Profile Management,AEM Story,Yes,No,Yes,None,3,Charlie,19,No Issues
+TC067,Search,API Gateway Changes,Yes,No,Yes,None,0,Bob,10,No Issues
+TC068,Payment Gateway,Database Update,No,No,No,Low,1,Charlie,22,No Issues
+TC069,Profile Management,React Story,No,No,Yes,Medium,5,Alice,24,No Issues
+TC070,Search,React Story,Yes,No,Yes,None,3,Bob,16,No Issues
+TC071,Login,UI Enhancement,No,No,No,None,4,Charlie,20,No Issues
+TC072,Search,UI Enhancement,Yes,No,Yes,High,6,Alice,35,No Issues
+TC073,Login,React Story,Yes,No,No,None,5,Charlie,34,No Issues
+TC074,Login,AEM Story,No,No,Yes,Medium,10,Alice,26,No Issues
+TC075,Login,API Gateway Changes,Yes,Yes,Yes,None,1,Alice,26,No Issues
+TC076,Checkout,AEM Story,No,No,Yes,None,4,Bob,19,No Issues
+TC077,Profile Management,AEM Story,No,Yes,No,Medium,3,Charlie,53,P2
+TC078,Search,UI Enhancement,No,No,Yes,None,5,Charlie,20,No Issues
+TC079,Profile Management,AEM Story,No,Yes,Yes,None,2,Bob,37,No Issues
+TC080,Profile Management,AEM Story,No,No,Yes,Medium,6,Alice,35,No Issues
+TC081,Login,Database Update,No,No,No,None,0,Bob,23,No Issues
+TC082,Profile Management,Database Update,No,No,Yes,Low,0,Bob,37,No Issues
+TC083,Login,React Story,Yes,No,Yes,Low,5,Alice,25,P3
+TC084,Profile Management,API Gateway Changes,No,No,No,None,4,Alice,38,No Issues
+TC085,Search,AEM Story,No,Yes,Yes,None,5,Alice,7,No Issues
+TC086,Checkout,Database Update,No,No,No,None,6,Alice,25,No Issues
+TC087,Profile Management,AEM Story,No,No,No,Medium,2,Bob,34,No Issues
+TC088,Profile Management,AEM Story,No,No,Yes,None,0,Alice,31,No Issues
+TC089,Profile Management,UI Enhancement,Yes,Yes,Yes,None,3,Alice,15,No Issues
+TC090,Login,UI Enhancement,Yes,No,No,None,1,Alice,30,No Issues
+TC091,Login,AEM Story,Yes,Yes,Yes,None,2,Alice,14,No Issues
+TC092,Profile Management,Database Update,Yes,No,Yes,Low,1,Bob,27,P3
+TC093,Search,Database Update,No,No,Yes,None,4,Alice,32,No Issues
+TC094,Search,Database Update,Yes,Yes,Yes,None,0,Alice,38,No Issues
+TC095,Profile Management,API Gateway Changes,No,No,Yes,None,4,Bob,28,No Issues
+TC096,Payment Gateway,Database Update,No,No,Yes,None,0,Charlie,27,No Issues
+TC097,Checkout,Database Update,Yes,No,Yes,None,1,Alice,14,No Issues
+TC098,Search,API Gateway Changes,Yes,No,Yes,Low,2,Alice,39,P3
+TC099,Login,UI Enhancement,Yes,No,Yes,Low,0,Charlie,23,P3
+TC100,Checkout,React Story,Yes,No,Yes,None,0,Charlie,30,No Issues
+TC101,Payment Gateway,React Story,Yes,Yes,Yes,None,1,Alice,16,No Issues
+TC102,Checkout,Database Update,Yes,No,Yes,None,3,Charlie,24,No Issues
+TC103,Checkout,AEM Story,Yes,No,No,Medium,4,Alice,42,P3
+TC104,Checkout,React Story,Yes,No,No,None,0,Alice,30,No Issues
+TC105,Login,UI Enhancement,No,Yes,Yes,None,0,Alice,25,No Issues
+TC106,Search,Database Update,Yes,No,Yes,None,2,Alice,12,No Issues
+TC107,Checkout,AEM Story,No,Yes,Yes,None,5,Charlie,19,No Issues
+TC108,Checkout,React Story,Yes,No,No,None,0,Charlie,17,No Issues
+TC109,Login,Database Update,Yes,No,No,High,6,Charlie,28,P1
+TC110,Checkout,UI Enhancement,No,Yes,Yes,Low,5,Charlie,27,P3
+TC111,Payment Gateway,API Gateway Changes,Yes,No,Yes,None,3,Alice,20,No Issues
+TC112,Payment Gateway,AEM Story,No,No,Yes,Medium,8,Bob,30,No Issues
+TC113,Profile Management,AEM Story,No,No,Yes,None,3,Charlie,41,No Issues
+TC114,Payment Gateway,Database Update,Yes,No,Yes,None,3,Bob,32,No Issues
+TC115,Login,React Story,Yes,No,Yes,None,3,Bob,20,No Issues
+TC116,Checkout,UI Enhancement,No,No,No,Low,2,Alice,16,No Issues
+TC117,Login,UI Enhancement,Yes,No,Yes,None,3,Alice,28,No Issues
+TC118,Checkout,API Gateway Changes,Yes,No,Yes,Medium,5,Alice,25,P3
+TC119,Payment Gateway,React Story,No,Yes,Yes,Low,4,Alice,38,P3
+TC120,Payment Gateway,API Gateway Changes,No,No,Yes,None,0,Alice,39,No Issues
+TC121,Profile Management,UI Enhancement,No,No,Yes,None,7,Charlie,26,No Issues
+TC122,Payment Gateway,UI Enhancement,Yes,No,No,None,3,Charlie,27,No Issues
+TC123,Checkout,React Story,No,Yes,Yes,Low,6,Charlie,19,P3
+TC124,Checkout,API Gateway Changes,No,No,Yes,None,3,Charlie,35,No Issues
+TC125,Login,AEM Story,No,No,Yes,None,0,Bob,8,No Issues
+TC126,Login,React Story,No,No,Yes,None,2,Charlie,41,No Issues
+TC127,Checkout,AEM Story,Yes,No,Yes,None,0,Bob,24,No Issues
+TC128,Payment Gateway,UI Enhancement,No,No,Yes,Low,2,Alice,13,No Issues
+TC129,Payment Gateway,AEM Story,Yes,No,Yes,None,3,Charlie,24,No Issues
+TC130,Payment Gateway,UI Enhancement,Yes,No,Yes,None,2,Bob,19,No Issues
+TC131,Payment Gateway,React Story,No,Yes,No,None,0,Alice,35,No Issues
+TC132,Profile Management,API Gateway Changes,No,No,Yes,None,0,Alice,17,No Issues
+TC133,Login,API Gateway Changes,No,No,Yes,None,4,Alice,37,No Issues
+TC134,Payment Gateway,AEM Story,Yes,Yes,Yes,Low,1,Charlie,29,P3
+TC135,Profile Management,UI Enhancement,No,Yes,Yes,None,4,Charlie,29,No Issues
+TC136,Profile Management,UI Enhancement,No,No,Yes,None,4,Alice,21,No Issues
+TC137,Login,React Story,Yes,Yes,Yes,None,3,Charlie,12,No Issues
+TC138,Search,UI Enhancement,No,No,No,None,1,Alice,10,No Issues
+TC139,Payment Gateway,UI Enhancement,No,No,Yes,None,0,Charlie,41,No Issues
+TC140,Search,Database Update,Yes,No,No,None,2,Alice,36,No Issues
+TC141,Login,API Gateway Changes,No,No,Yes,None,3,Bob,7,No Issues
+TC142,Login,API Gateway Changes,No,No,Yes,Medium,6,Alice,38,No Issues
+TC143,Search,React Story,Yes,No,Yes,Medium,6,Bob,25,P3
+TC144,Checkout,Database Update,Yes,No,Yes,Medium,6,Charlie,44,P3
+TC145,Search,AEM Story,No,No,Yes,Medium,2,Alice,22,No Issues
+TC146,Search,Database Update,No,Yes,Yes,Low,3,Alice,17,P3
+TC147,Search,API Gateway Changes,Yes,No,Yes,None,1,Bob,35,No Issues
+TC148,Search,API Gateway Changes,No,No,Yes,Medium,4,Alice,42,No Issues
+TC149,Login,Database Update,Yes,No,Yes,None,8,Alice,24,No Issues
+TC150,Profile Management,AEM Story,Yes,No,Yes,None,2,Alice,42,No Issues
+TC151,Profile Management,API Gateway Changes,No,No,Yes,Low,4,Bob,34,No Issues
+TC152,Search,AEM Story,Yes,No,Yes,None,2,Alice,31,No Issues
+TC153,Search,Database Update,Yes,No,No,Low,4,Bob,35,P3
+TC154,Payment Gateway,React Story,No,No,Yes,None,3,Bob,27,No Issues
+TC155,Payment Gateway,UI Enhancement,Yes,No,No,None,0,Bob,35,No Issues
+TC156,Checkout,API Gateway Changes,No,No,No,None,3,Alice,25,No Issues
+TC157,Login,API Gateway Changes,Yes,No,Yes,None,2,Alice,21,No Issues
+TC158,Checkout,API Gateway Changes,Yes,No,Yes,Low,2,Alice,20,P3
+TC159,Login,UI Enhancement,No,No,Yes,Low,3,Bob,33,No Issues
+TC160,Payment Gateway,API Gateway Changes,Yes,Yes,No,None,3,Bob,35,No Issues
+TC161,Checkout,UI Enhancement,No,No,No,None,1,Alice,39,No Issues
+TC162,Profile Management,UI Enhancement,No,No,No,High,5,Alice,49,No Issues
+TC163,Payment Gateway,React Story,No,No,Yes,None,0,Charlie,15,No Issues
+TC164,Profile Management,React Story,Yes,Yes,Yes,None,2,Charlie,27,No Issues
+TC165,Checkout,AEM Story,No,No,Yes,Medium,7,Bob,32,No Issues
+TC166,Profile Management,React Story,No,No,Yes,None,3,Charlie,29,No Issues
+TC167,Payment Gateway,UI Enhancement,No,No,Yes,None,1,Bob,19,No Issues
+TC168,Login,API Gateway Changes,No,No,Yes,High,8,Charlie,29,No Issues
+TC169,Payment Gateway,Database Update,No,Yes,No,None,3,Bob,9,No Issues
+TC170,Profile Management,API Gateway Changes,No,No,Yes,Medium,4,Charlie,31,No Issues
+TC171,Search,AEM Story,No,No,No,Low,4,Bob,45,No Issues
+TC172,Profile Management,AEM Story,Yes,No,Yes,None,2,Charlie,42,No Issues
+TC173,Checkout,API Gateway Changes,Yes,Yes,Yes,None,2,Bob,36,No Issues
+TC174,Checkout,React Story,No,No,No,None,4,Bob,43,No Issues
+TC175,Payment Gateway,AEM Story,Yes,No,No,Low,4,Bob,30,P3
+TC176,Checkout,UI Enhancement,No,No,Yes,Low,2,Charlie,26,No Issues
+TC177,Payment Gateway,Database Update,Yes,No,Yes,Low,3,Bob,37,P3
+TC178,Profile Management,AEM Story,Yes,No,Yes,High,3,Charlie,42,No Issues
+TC179,Profile Management,AEM Story,No,No,No,None,3,Charlie,40,No Issues
+TC180,Login,API Gateway Changes,No,No,Yes,Medium,5,Charlie,36,No Issues
+TC181,Checkout,API Gateway Changes,Yes,No,Yes,None,5,Alice,9,No Issues
+TC182,Search,API Gateway Changes,Yes,No,No,High,4,Alice,38,P1
+TC183,Search,AEM Story,No,Yes,Yes,None,6,Alice,24,No Issues
+TC184,Login,AEM Story,No,No,Yes,High,3,Bob,13,No Issues
+TC185,Checkout,React Story,Yes,No,Yes,None,3,Bob,19,No Issues
+TC186,Profile Management,UI Enhancement,No,No,No,None,4,Alice,24,No Issues
+TC187,Profile Management,Database Update,No,No,Yes,None,2,Bob,27,No Issues
+TC188,Search,AEM Story,No,Yes,Yes,None,0,Charlie,39,No Issues
+TC189,Login,React Story,No,No,No,None,3,Bob,29,No Issues
+TC190,Search,AEM Story,No,No,No,Low,3,Charlie,32,No Issues
+TC191,Checkout,Database Update,No,No,Yes,None,1,Alice,43,No Issues
+TC192,Checkout,AEM Story,Yes,No,Yes,None,4,Alice,18,No Issues
+TC193,Profile Management,AEM Story,Yes,No,Yes,None,2,Bob,5,No Issues
+TC194,Checkout,UI Enhancement,No,No,Yes,Medium,4,Charlie,34,No Issues
+TC195,Payment Gateway,Database Update,Yes,No,Yes,None,6,Charlie,33,No Issues
+TC196,Checkout,Database Update,No,Yes,Yes,None,2,Charlie,18,No Issues
+TC197,Profile Management,AEM Story,Yes,Yes,Yes,None,6,Charlie,31,No Issues
+TC198,Profile Management,Database Update,No,Yes,Yes,None,5,Bob,34,No Issues
+TC199,Search,API Gateway Changes,Yes,No,Yes,None,4,Charlie,28,No Issues
+TC200,Profile Management,AEM Story,No,No,Yes,Low,5,Bob,26,No Issues
